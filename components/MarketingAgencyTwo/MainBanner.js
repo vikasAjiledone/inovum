@@ -93,7 +93,7 @@ class MainBanner extends Component {
                   <div className="container">
                     <VisibilitySensor>
                       {({ isVisible }) => (
-                        <div className="main-banner-content text-center" style={{paddingTop:"10%",paddingBottom:"10%"}} >
+                        <div className="main-banner-content text-center" style={{paddingTop:"10%",paddingBottom:"15%"}} >
                           <h2
                             style={{color:"#fff",textAlign:"left"}}
                           >
